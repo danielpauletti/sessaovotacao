@@ -1,4 +1,14 @@
 # sessaovotacao
+**Tecnologias utilizadas**
+- Java 8
+- Spring Data
+- Spring Boot
+- JPA
+- HSQLDB
+- Maven
+- ~~Open Feign~~ (Para integração. Não finalizado)
+- ~~Swagger~~ (Não finalizado)
+
 **Endpoints**
 - POST /pauta 
 ```
